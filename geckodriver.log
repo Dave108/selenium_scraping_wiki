@@ -1,0 +1,38 @@
+1636540627132	geckodriver	INFO	Listening on 127.0.0.1:60165
+1636540628090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNcb5Ng"
+1636540632616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNcb5Ng/search.json.mozlz4", (void 0)))
+1636540641879	Marionette	INFO	Listening on port 34141
+1636540642480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+1636540656993	Marionette	INFO	Stopped listening on port 34141
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636540823076	geckodriver	INFO	Listening on 127.0.0.1:42557
+1636540824032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWTBtgk"
+1636540825901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWTBtgk/search.json.mozlz4", (void 0)))
+1636540828220	Marionette	INFO	Listening on port 42457
+1636540828483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+1636540835560	Marionette	INFO	Stopped listening on port 42457
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636540886874	geckodriver	INFO	Listening on 127.0.0.1:43855
+1636540887887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletHU2y1"
+1636540889434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletHU2y1/search.json.mozlz4", (void 0)))
+1636540891700	Marionette	INFO	Listening on port 46129
+1636540891911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+1636540898806	Marionette	INFO	Stopped listening on port 46129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
